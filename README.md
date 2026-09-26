@@ -1,12 +1,12 @@
-# Project Title (This is a template README.md file that you can adapt to your project)
+# Comparing rainfall in Seattle, WA and Charlotte, NC
 
-> THis is my analyses of weather patters between Seattle, WA and Charlotte, NC.
+> This is my analyses of weather patters between Seattle, WA and Charlotte, NC.
 
 ---
 
 ## Project Overview
 
-Provide a short and concise overview of the project. Mention the problem it solves, the data used, and the key outcomes or findings.
+This project compares historical weather data from Seattle and Charlotte with a focus on precipitation. We will be comparing rainfall frequency, seasonal variations, as well as overall precipitation. We will be looking at the data set to find if Seattle or Charlotte gets more rain.
 
 - **Objective:** Clearly state the main goal of the project.
 - **Domain:** (e.g., Healthcare, Finance, E-commerce, etc.)
@@ -48,7 +48,7 @@ Include a short discussion of the findings and what they imply.
 
 ## Authors
 
-- Your Name - [@yourhandle](https://github.com/yourhandle)
+- Binay Raut - [@binay8](https://github.com/binay8)
 
 ---
 
