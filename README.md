@@ -1,6 +1,6 @@
 # Project Title (This is a template README.md file that you can adapt to your project)
 
-> THis is my analyses of weather patters between Seattle and tbd.
+> THis is my analyses of weather patters between Seattle, WA and Charlotte, NC.
 
 ---
 
