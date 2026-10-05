@@ -1,6 +1,6 @@
 # Comparing rainfall in Seattle, WA and Charlotte, NC
 
-> This is my analyses of weather patters between Seattle, WA and Charlotte, NC.
+> This project analyzes weather patters between Seattle, WA and Charlotte, NC.
 
 ---
 
@@ -28,8 +28,8 @@ This project compares historical weather data from Seattle and Charlotte with a 
 
 ## Data
 
-- **Source:** Link to the data source(s) We will be using data from [NOAA website site](https://www.ncei.noaa.gov/cdo-web/datasets). Steps to download is in Canvas.
-- **Description:** We downloaded precipitation data from Seattle's airport (SEA-TAC) as well as Charlotte's Airport (Charlotte Douglas) between 2018 and 2022. The dataset contains categorical data like Station, Name, and Date. Finally, the measures included were Precipitation, Snow fall and "SNWD". We recieved a total of 1826 rows for both locations. This means we received 5 years worth of data (365*5 + 1). Data types received are string and float.  Brief overview of the dataset features, size, and format
+- **Source:** We will be using data from [NOAA website site](https://www.ncei.noaa.gov/cdo-web/datasets).
+- **Description:** We downloaded precipitation data from Seattle's airport (SEA-TAC) as well as Charlotte's Airport (Charlotte Douglas) between 2018 and 2022. The dataset contains categorical data like Station, Name, and Date. Finally, the measures included were Precipitation, Snow fall and "SNWD". We recieved a total of 1826 rows for both locations. This means we received 5 years worth of data (365*5 + 1). Data types received are string and float. 
 - **License:** (if applicable)
 
 ---
