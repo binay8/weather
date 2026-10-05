@@ -8,9 +8,9 @@
 
 This project compares historical weather data from Seattle and Charlotte with a focus on precipitation. We will be comparing rainfall frequency, seasonal variations, as well as overall precipitation. We will be looking at the data set to find if Seattle or Charlotte gets more rain.
 
-- **Objective:** Clearly state the main goal of the project.
-- **Domain:** (e.g., Healthcare, Finance, E-commerce, etc.)
-- **Key Techniques:** (e.g., Regression, Classification, Clustering, NLP, Time Series)
+- **Objective:** We are analyzing precipitation data from Seattle, Washington and Charlotte, North Carolina. Does Seattle receive more precipitation or is it the other way around? We will try to answer how precipitation differ in terms of volume of precipitation, frequency as well as other factors.  
+- **Domain:** Climate Sceince, Precipitation
+- **Key Techniques:** Exploratory Data Analysis, Statistical Testing, (Regression, Classification, Clustering, NLP, Time Series)
 
 ---
 
@@ -28,8 +28,8 @@ This project compares historical weather data from Seattle and Charlotte with a 
 
 ## Data
 
-- **Source:** Link to the data source(s) We will be using data fromm NOAA site. Steps to download is in Canvas.
-- **Description:** Brief overview of the dataset features, size, and format
+- **Source:** Link to the data source(s) We will be using data from [NOAA website site](https://www.ncei.noaa.gov/cdo-web/datasets). Steps to download is in Canvas.
+- **Description:** We downloaded precipitation data from Seattle's airport (SEA-TAC) as well as Charlotte's Airport (Charlotte Douglas) between 2018 and 2022. The dataset contains categorical data like Station, Name, and Date. Finally, the measures included were Precipitation, Snow fall and "SNWD". We recieved a total of 1826 rows for both locations. This means we received 5 years worth of data (365*5 + 1). Data types received are string and float.  Brief overview of the dataset features, size, and format
 - **License:** (if applicable)
 
 ---
