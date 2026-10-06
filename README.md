@@ -8,9 +8,9 @@
 
 This project compares historical weather data from Seattle and Charlotte with a focus on precipitation. We will be comparing rainfall frequency, seasonal variations, as well as overall precipitation. We will be looking at the data set to find if Seattle or Charlotte gets more rain.
 
-- **Objective:** We are analyzing precipitation data from Seattle, Washington and Charlotte, North Carolina. Does Seattle receive more precipitation or is it the other way around? We will try to answer how precipitation differ in terms of volume of precipitation, frequency as well as other factors.  
+- **Objective:** We are analyzing precipitation data from Seattle, Washington and Charlotte, North Carolina. Does Seattle receive more precipitation or is it the other way around? We will try to answer how precipitation differ in terms of volume of precipitation, and frequency. Additionally, we can also review When it rains, how much rain tends to fall in both cities.   
 - **Domain:** Climate Sceince, Precipitation
-- **Key Techniques:** Exploratory Data Analysis, Statistical Testing, (Regression, Classification, Clustering, NLP, Time Series)
+- **Key Techniques:** Exploratory Data Analysis, Statistical Testing.
 
 ---
 
@@ -37,7 +37,7 @@ This project compares historical weather data from Seattle and Charlotte with a 
 ## Analysis
 
 Describe the notebooks and/or scripts used to perform the analysis. Specify the order in which the code should be run to reproduce the results.
-
+Run code/Weather_Project_SEA_CHA.ipynb file. 
 ---
 
 ## Results
@@ -60,6 +60,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Tools/libraries used
-- Tutorials or papers referenced
-- Inspiration or collaborators
+- Python libraries used include pandas, matplotlib.pyplot, numpy, seaborn, and scipy 
+
