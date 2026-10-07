@@ -28,8 +28,8 @@ This project compares historical weather data from Seattle and Charlotte with a 
 
 ## Data
 
-- **Source:** We will be using data from [NOAA website site](https://www.ncei.noaa.gov/cdo-web/datasets).
-- **Description:** We downloaded precipitation data from Seattle-Tacoma International Airport (SEA-TAC) as well as Charlotte  Douglas International Airport between 2018 and 2022. The dataset contains categorical data like Station, Name, and Date. Finally, the measures included were Precipitation, Snow fall and "SNWD". We recieved a total of 1826 rows for both locations. This means we received 5 years worth of data (365*5 + 1). Data types received are string and float. 
+- **Source:** We will be using data from [NOAA](https://www.ncei.noaa.gov/cdo-web/datasets).
+- **Description:** We downloaded precipitation data from Seattle-Tacoma International Airport (SEA-TAC) as well as Charlotte  Douglas International Airport between 2018 and 2022. The dataset contains categorical data like Station, Name, and Date. Finally, the measures included were Precipitation, Snowfall and Snowdepth "SNWD". We recieved a total of 1826 rows for both locations. This means we received five-years worth of data (365 days * 5 years + 1 leap-day). Data types received are string (text) and float (numerical). 
 - **License:** (if applicable)
 
 ---
@@ -39,8 +39,8 @@ This project compares historical weather data from Seattle and Charlotte with a 
 This analysis was completed using the data science methodology to compare precipitation patterns between Seattle, WA, and Charlotte, NC.
 
 General steps taken:
-1. Download data from NOAA databse
-2. Investigate sourse data set to understand data structure, categories, data types, missing values.
+1. Download data from NOAA database
+2. Investigate source data set to understand data structure, categories, data types, missing values.
 3. Performed data cleansing by: removing unnecessary columns, updating data types, imputing missing values.
 4. Converted data to tidy format
 5. Calculated columns were added as needed. Specifically for month, day from datetime column.
@@ -54,6 +54,7 @@ General steps taken:
 
 - Final clean dataset: [clean_seattle_charlotte_weather.csv](https://github.com/binay8/weather/blob/master/data/clean_seattle_charlotte_weather.csv)
 
+- Report: [Report.docx] (https://github.com/binay8/weather/blob/master/reports/Report.docx)
 
 ---
 
