@@ -48,8 +48,11 @@ General steps taken:
 7. Deeper analysis to compare monthly mean precipitation as well as proportions days with precipitation between two cities. 
 8. Statistical tests to assess observed differences in mean and proportions of days with rain between two cities were statistically significant
 
-Name of file that performs the analysis: [Weather_Project_SEA_CHA.ipynb](https://github.com/binay8/weather/blob/master/code/Weather_Project_SEA_CHA.ipynb)
-Final Clea
+## Resources
+
+- Name of file that performs the analysis: [Weather_Project_SEA_CHA.ipynb](https://github.com/binay8/weather/blob/master/code/Weather_Project_SEA_CHA.ipynb)
+
+- Final clean dataset: [clean_seattle_charlotte_weather.csv](https://github.com/binay8/weather/blob/master/data/clean_seattle_charlotte_weather.csv)
 
 
 ---
