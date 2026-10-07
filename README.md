@@ -54,7 +54,7 @@ General steps taken:
 
 - Final clean dataset: [clean_seattle_charlotte_weather.csv](https://github.com/binay8/weather/blob/master/data/clean_seattle_charlotte_weather.csv)
 
-- Report: [Report.docx] (https://github.com/binay8/weather/blob/master/reports/Report.docx)
+- Report: [Report.docx](https://github.com/binay8/weather/blob/master/reports/Report.docx)
 
 ---
 
